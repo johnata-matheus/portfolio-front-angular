@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+  --w0: #FFFFFF;
+  --b1: #6FCBFF;
+  --b2: #0097EC;
+  --b3: #0085D0
+}
+
+h1,
+h2,
+h3,
+p,
+ul{
+  padding: 0;
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+ul{
+  list-style: none;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+}
